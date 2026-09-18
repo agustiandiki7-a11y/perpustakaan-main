@@ -29,7 +29,7 @@ unset($_SESSION['error']);
                             <li class="separator"><i class="icon-arrow-right"></i></li>
                             <li class="nav-item"><a href="tabel_kategori.php">Data Kategori</a></li>
                             <li class="separator"><i class="icon-arrow-right"></i></li>
-                            <li class="nav-item"><a href="#">Tambah</a></li>
+                            <li class="nav-item"><a href="">Tambah</a></li>
                         </ul>
                     </div>
 
